@@ -107,4 +107,4 @@ public class ConnectFour {
         else if(checkWinner2 == true)
             System.out.println("Player 2 won the game!");
     }
-}
+}//comment added via terminal
